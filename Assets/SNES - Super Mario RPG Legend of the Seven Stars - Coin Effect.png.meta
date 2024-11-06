@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: 75a54f24af1d8d7428c22e4211b10ea0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea0c8cd4730674a907cb8eb92718ae
+      internalID: 798498151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4de8ade4332d489bcea697224d53c
+      internalID: 1583638575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50700062a71201744922b4b44b5a0e1b
+      internalID: 447406683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc71536b6bb1124c834f04646aa7ec4
+      internalID: 832305669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0320b861762c14fbac8f6bc6bb4b19
+      internalID: 922510427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650af4ac13a7b24692775f8db8e5fee
+      internalID: 2015992677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c08a2e877ee714197934e1015fea0a
+      internalID: -968064363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 455.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e284625901af3408b5ee88232e9963
+      internalID: 1375529515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24cc3f457cd5ee47a20c7ba72c9314d
+      internalID: 701312583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d432aba3b574fe489fe91769e4f6d1d
+      internalID: -842192427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d333013b1defb4eaf4d8623822beea
+      internalID: -440793934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc48d4236ed77f4f894146eee485e98
+      internalID: 159845110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78e725aff56a24095b7f4cb3147c44
+      internalID: 470571255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb966011dc661842b66e5cff97cff7c
+      internalID: 1595342051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a1124aa24261943a1f9e55083debe9
+      internalID: 1387163010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 390.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caad0ff3a424dd449666e655c592cd8
+      internalID: -1982146157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e336449d24524ab5373ef27c238ec
+      internalID: -60218505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2b724cbf1ec545a5c75f3cde3ebb3
+      internalID: -2131381619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228797d2503557c408d307bac19f852e
+      internalID: -1928750453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454067008cbb85d4f9343154b2844009
+      internalID: -1760833524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38947424b6ae9c047b8bde70b0b03fd9
+      internalID: -2112994332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0fdd4e7c0dd0a4e9c6fa4ee4ce859e
+      internalID: 548452457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bace08c6d03d46af65e11fba41c8f
+      internalID: -2119802590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 325.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508686b2d97dc4c45bf7aac2a02122bb
+      internalID: 1529977295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4c5d342605af1409d071bfb36dc10a
+      internalID: 1104583467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c000eb36d18b76e479b58c760c84276d
+      internalID: -508058862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfce0e374994834bbf6adf16e5b6525
+      internalID: -1061134080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b808a763f72c44383d45aa892c7b12
+      internalID: -1845037687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0436ef19f7ba24c45aff8d292c012a22
+      internalID: -309317668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f38e5be1c7704cadaf803ac5e44f4
+      internalID: 403661294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68e44e294d7fb4b91e49a0d82f03e3
+      internalID: -1997555284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 260.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb54587758efa0442bfded959b06537e
+      internalID: -593957048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d490034bc2784eb7af213f8fb12f5
+      internalID: 1558901620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c225a8cbca5d9439d4cec1eec2bd50
+      internalID: -818573246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dae5a9d1a2f734e8e102ced07376e7
+      internalID: -2076507025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b565419b1098b4a896c87c737f8cdd
+      internalID: 58857830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527459d42a2129479b5ca0440df50a7
+      internalID: 1416730897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5ab18956a39b4187d87bcfcf87d20
+      internalID: 1308564423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1751adc70f0c104095201ebec84c691
+      internalID: 804056579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 195.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ca1d1e3b1c6446821d77ca16755cf
+      internalID: -85832429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e05f6c2ebae4204f949e0baa967c381
+      internalID: -369687802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f26179320b564ab0d11923b90632d
+      internalID: -2063440498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0149306f23f9034fbeb3233b6b825ee
+      internalID: -1108111083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b8eddbc8a9d543b4948f239077df5
+      internalID: 574426677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d27e26fcb42fce4683fd040b2f15488
+      internalID: 734487655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03140facbd16a0045b4086a9cb30943a
+      internalID: 2047186542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f62ca8a483e73e41aef0ec2cd34b707
+      internalID: -1484027072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 130.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c31758c6e72bff4ab62941637044a88
+      internalID: -4709043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6ccab07f5aec48b9ebcce856c9531
+      internalID: -1493011779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf04609534e0a0458972d6897853eb4
+      internalID: -2078718714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1233efd903a1b40ac822a76c3c381d
+      internalID: -230592336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f71a6b643bb446912b00c0c701bee
+      internalID: -144214850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a3544071b20a4d813bee6d9f563b2
+      internalID: -1290266103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea59dfafecf6cf458617ecfb49b1505
+      internalID: 735924068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3b9f072592534bb848f16edf48f02
+      internalID: 372882086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 65.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95430d31b04634c499056f1300ca1489
+      internalID: -584970269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee898e8bbb9c5844ae1c59e2253bb73
+      internalID: -1229578403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc39712915da24885393c337856b91
+      internalID: -1455280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1ed6212e643640807f961fda0d7d5
+      internalID: 1933826701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e2a742321ced4cb1ef23978ceea15
+      internalID: -2038198087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba9a8f3deeed034883c81741c247de0
+      internalID: -225147371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82563f17bcf16874dbbce579e286c8f7
+      internalID: -877143236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_62
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0af2cd60ea2e419eb270a2b4c8d2d
+      internalID: 412389867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_63
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0.875
+        width: 65.125
+        height: 65.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d11bda3aa8c645832969d0555409d
+      internalID: -443585234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_52: -1290266103
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_42: -1108111083
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_60: -225147371
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_32: 1558901620
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_37: 1308564423
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_50: -230592336
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_2: 447406683
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_4: 922510427
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_34: -2076507025
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_3: 832305669
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_8: 701312583
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_23: 1529977295
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_15: -1982146157
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_20: -2112994332
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_27: -1845037687
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_43: 574426677
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_40: -369687802
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_35: 58857830
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_29: 403661294
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_21: 548452457
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_41: -2063440498
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_47: -4709043
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_48: -1493011779
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_63: -443585234
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_25: -508058862
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_9: -842192427
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_1: 1583638575
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_33: -818573246
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_61: -877143236
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_56: -1229578403
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_55: -584970269
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_53: 735924068
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_22: -2119802590
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_16: -60218505
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_28: -309317668
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_58: 1933826701
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_36: 1416730897
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_45: 2047186542
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_7: 1375529515
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_24: 1104583467
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_6: -968064363
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_49: -2078718714
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_62: 412389867
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_57: -1455280756
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_59: -2038198087
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_26: -1061134080
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_38: 804056579
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_46: -1484027072
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_0: 798498151
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_17: -2131381619
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_39: -85832429
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_5: 2015992677
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_44: 734487655
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_13: 1595342051
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_14: 1387163010
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_11: 159845110
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_18: -1928750453
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_30: -1997555284
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_51: -144214850
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_54: 372882086
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_12: 470571255
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_19: -1760833524
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_10: -440793934
+      SNES - Super Mario RPG Legend of the Seven Stars - Coin Effect_31: -593957048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

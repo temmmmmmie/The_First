@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\uB545"
+  - "\uBAAC\uC2A4\uD130"
+  - "\uD50C\uB808\uC774\uC5B4"
+  - "\uCE74\uBA54\uB77C"
+  - npc
+  - "\uC778\uBCA4\uCE78"
+  - "\uC0C1\uC810"
+  - notray
+  - "\uBB3C"
+  - "\uC544\uC774\uD15C"
+  - "\uC790\uC11D"
+  - task
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - "\uD544\uB4DC"
+  - Water
+  - UI
+  - "\uB545"
+  - "\uC544\uC774\uD15C"
+  - "\uBAAC\uC2A4\uD130"
+  - "\uD50C\uB808\uC774\uC5B4"
+  - "\uD551"
+  - ray
+  - "\uC0C1\uC810"
+  - "\uC790\uC11D"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 262791195
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3007644019
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2386962207
+    locked: 0

@@ -1,0 +1,1498 @@
+fileFormatVersion: 2
+guid: 137ff535ce09656448692af6cca5f3f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 178
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b38cb9254b1144cbdc25e5298240c3
+      internalID: 1337673562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acaf4ac90a5e194294e6705277d3800
+      internalID: 913778314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 178
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61ade766bf2134a9e042c0174526de
+      internalID: 346724324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 179
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841a295c6aeb0b499f04d6e96a5f3bb
+      internalID: -787528956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a606bf1d003444b9e086bf2a344668
+      internalID: -803878005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 177
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601537f0c9e8794d88a31cc83163a8c
+      internalID: 572288949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 179
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e0b3d171e3b34eaa15868307f3c6f
+      internalID: 941979043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 177
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69644eaef5ef044ae5780c9f8f0ead
+      internalID: -1539309163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 177
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bda19ee064ac4f86ae38f70ec141f
+      internalID: 1965018721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9163285a1b1d72e4e97825fc9f0e4517
+      internalID: 1023190219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 175
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3639c88e4a2849be7751f4f776a61
+      internalID: 324420629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 172
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb31fea9ca8324d98af3ca475b2575
+      internalID: -1955940175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa9c46f1ced4f429ab378d5b5c91c0
+      internalID: -163283820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 176
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526be581801d4f4499e898df2865ab08
+      internalID: -1929237154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 141
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95c20020f2d94428faae74bf3b64a2
+      internalID: 1640899272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 137
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3742204dcce54a9ad9108a6918dda
+      internalID: -1805212029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85cb41271fba4643b8e6d31c42ecd21
+      internalID: -792930570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1467f70af8307b42ba61ff37888cb3f
+      internalID: -1326200479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 141
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2fefa3e7126945995c44e0d5aec95
+      internalID: 1300634804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 139
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b026cbd885efe4eb794103f304e142
+      internalID: 642355248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 141
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe051572372144caf617cec1dacb62
+      internalID: 1073025832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 138
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49959773202e7cf49846f86a322b4c14
+      internalID: -522741960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 141
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f504b0819ff421b4c942f31e6babff2b
+      internalID: -735481456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 139
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e74c863a93644f8cbd7ef33398638
+      internalID: -502481771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 137
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f324bba542b3de44db53ced01dbbd022
+      internalID: 1014399055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 138
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d95fe8f34574b489c9c5d732224858
+      internalID: 1756734395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_26
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dff0ef9a930c94c9fa1c3cda5f67c1
+      internalID: -1466144939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 136
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec5e1ab92069742bb37ca3b0af9718
+      internalID: -1260384351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 75
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a949cae4c4fc4e45aa51475d40423ef
+      internalID: -689546308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 75
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d50c1b5af193549868cae995d48cef
+      internalID: -222916869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 75
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98258e63cc16d1c4d8f4006576754d1b
+      internalID: -1674850257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e32a7151a76b4a837b976efd918c7
+      internalID: -1003415993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 75
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f712115b41dd9408f0397c39963021
+      internalID: -823222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e8836b2bba22d438167e79d6b12f4a
+      internalID: 1420875110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 77
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cf07c5d786f94c9c8c8ddc463c779
+      internalID: 1110642049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2a21482c23c5478b59338db2046d7
+      internalID: -580185425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 74
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bac0d1e4b6ba3344b37186c34358f65
+      internalID: -100024341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 72
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69856f51aaa7c724eb7b295ac8344ac8
+      internalID: -1019872546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 73
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309681dd7692b646b4bab597df6db3c
+      internalID: 1266134720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914feb5ee4f77942832773303c0e951
+      internalID: 458798160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_40
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 68
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0b4de135acdb42921e34c73604859
+      internalID: -1540360981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f6cf025e918e4dad916a1c14224b4
+      internalID: -949727931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_42
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 74
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b941f80f5b4c40ae76d12fa496b87
+      internalID: -480996871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 77
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577cf7fd2780624b87879084f95602d
+      internalID: 1041269042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_44
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 77
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eaa190116d81c479b6cccc33aa6be0
+      internalID: 1559959291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794dafee84f7ac4186b89db41cc9d6c
+      internalID: 272419650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51ba35fd99b38458e7cec287476d64
+      internalID: 970927408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49d9cc3c7b08e43b745e29c8981327
+      internalID: -1503482216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcdda7c4f2426849a4c36147d80e686
+      internalID: -116051540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6b3ce9e16cae4dbf4b7f604cf3b41
+      internalID: 1043625106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3127b9d7445e43408525c51391992b7
+      internalID: 56981661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 42
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b21d8ba512a942b42a08c366c0f5a
+      internalID: 406800098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 37
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81fc6f2c6870bd40be7bc7a83691734
+      internalID: 690230402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778ab06bde310e46963f48e8f59ddc8
+      internalID: 1907555426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 13
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01098ddb6ddb9408f8c5d543c73afb
+      internalID: -844929340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 35
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3209815c6d53347871bfdd34d7c3c8
+      internalID: 571220583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 35
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7be4e962671a4e8bceeed3b77b17b
+      internalID: -1368258373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0cbb424e51b36418ef91f149f234aa
+      internalID: 446599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_58
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 36
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc746e9902f5082438f9eb5affb96dda
+      internalID: 421007883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 38
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3828f8a9960f89419b8f9806f0b3204
+      internalID: -293830000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_60
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 39
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e0ad452fb0534796b65a575280ead
+      internalID: -840936315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Monster Tale - Chomp Items_61
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 36
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d69027244182ad42bc1b1860d5171f8
+      internalID: -1299406685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Monster Tale - Chomp Items_56: -1368258373
+      DS DSi - Monster Tale - Chomp Items_9: 1023190219
+      DS DSi - Monster Tale - Chomp Items_10: 324420629
+      DS DSi - Monster Tale - Chomp Items_58: 421007883
+      DS DSi - Monster Tale - Chomp Items_24: 1014399055
+      DS DSi - Monster Tale - Chomp Items_11: -1955940175
+      DS DSi - Monster Tale - Chomp Items_4: -803878005
+      DS DSi - Monster Tale - Chomp Items_36: -100024341
+      DS DSi - Monster Tale - Chomp Items_22: -735481456
+      DS DSi - Monster Tale - Chomp Items_17: -1326200479
+      DS DSi - Monster Tale - Chomp Items_59: -293830000
+      DS DSi - Monster Tale - Chomp Items_20: 1073025832
+      DS DSi - Monster Tale - Chomp Items_2: 346724324
+      DS DSi - Monster Tale - Chomp Items_60: -840936315
+      DS DSi - Monster Tale - Chomp Items_0: 1337673562
+      DS DSi - Monster Tale - Chomp Items_1: 913778314
+      DS DSi - Monster Tale - Chomp Items_6: 941979043
+      DS DSi - Monster Tale - Chomp Items_14: 1640899272
+      DS DSi - Monster Tale - Chomp Items_35: -580185425
+      DS DSi - Monster Tale - Chomp Items_42: -480996871
+      DS DSi - Monster Tale - Chomp Items_12: -163283820
+      DS DSi - Monster Tale - Chomp Items_55: 571220583
+      DS DSi - Monster Tale - Chomp Items_19: 642355248
+      DS DSi - Monster Tale - Chomp Items_48: -116051540
+      DS DSi - Monster Tale - Chomp Items_43: 1041269042
+      DS DSi - Monster Tale - Chomp Items_21: -522741960
+      DS DSi - Monster Tale - Chomp Items_37: -1019872546
+      DS DSi - Monster Tale - Chomp Items_61: -1299406685
+      DS DSi - Monster Tale - Chomp Items_13: -1929237154
+      DS DSi - Monster Tale - Chomp Items_16: -792930570
+      DS DSi - Monster Tale - Chomp Items_28: -689546308
+      DS DSi - Monster Tale - Chomp Items_30: -1674850257
+      DS DSi - Monster Tale - Chomp Items_29: -222916869
+      DS DSi - Monster Tale - Chomp Items_38: 1266134720
+      DS DSi - Monster Tale - Chomp Items_46: 970927408
+      DS DSi - Monster Tale - Chomp Items_45: 272419650
+      DS DSi - Monster Tale - Chomp Items_26: -1466144939
+      DS DSi - Monster Tale - Chomp Items_44: 1559959291
+      DS DSi - Monster Tale - Chomp Items_5: 572288949
+      DS DSi - Monster Tale - Chomp Items_23: -502481771
+      DS DSi - Monster Tale - Chomp Items_7: -1539309163
+      DS DSi - Monster Tale - Chomp Items_33: 1420875110
+      DS DSi - Monster Tale - Chomp Items_47: -1503482216
+      DS DSi - Monster Tale - Chomp Items_50: 56981661
+      DS DSi - Monster Tale - Chomp Items_25: 1756734395
+      DS DSi - Monster Tale - Chomp Items_18: 1300634804
+      DS DSi - Monster Tale - Chomp Items_32: -823222167
+      DS DSi - Monster Tale - Chomp Items_53: 1907555426
+      DS DSi - Monster Tale - Chomp Items_57: 446599452
+      DS DSi - Monster Tale - Chomp Items_41: -949727931
+      DS DSi - Monster Tale - Chomp Items_31: -1003415993
+      DS DSi - Monster Tale - Chomp Items_49: 1043625106
+      DS DSi - Monster Tale - Chomp Items_34: 1110642049
+      DS DSi - Monster Tale - Chomp Items_27: -1260384351
+      DS DSi - Monster Tale - Chomp Items_8: 1965018721
+      DS DSi - Monster Tale - Chomp Items_40: -1540360981
+      DS DSi - Monster Tale - Chomp Items_52: 690230402
+      DS DSi - Monster Tale - Chomp Items_15: -1805212029
+      DS DSi - Monster Tale - Chomp Items_39: 458798160
+      DS DSi - Monster Tale - Chomp Items_51: 406800098
+      DS DSi - Monster Tale - Chomp Items_54: -844929340
+      DS DSi - Monster Tale - Chomp Items_3: -787528956
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
